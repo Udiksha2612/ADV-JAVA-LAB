@@ -1,0 +1,9 @@
+# Build output (regenerate with `mvn clean package` or `javac`)
+target/
+*.class
+*.war
+LAB-3/bin/
+
+# IDE files
+.idea/
+*.iml
